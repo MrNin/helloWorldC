@@ -1,0 +1,18 @@
+﻿Build started 3/31/2016 12:33:16 PM.
+     1>Project "C:\Users\Dman22\Documents\GitHub\helloWorldC\Hello test\Hello test\Hello test.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Hello test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dman22\Documents\GitHub\helloWorldC\Hello test\Debug\Hello test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dman22\Documents\GitHub\helloWorldC\Hello test\Debug\Hello test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dman22\Documents\GitHub\helloWorldC\Hello test\Debug\Hello test.lib" /MACHINE:X86 Debug\Source.obj
+         Hello test.vcxproj -> C:\Users\Dman22\Documents\GitHub\helloWorldC\Hello test\Debug\Hello test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Hello test.unsuccessfulbuild".
+         Touching "Debug\Hello test.lastbuildstate".
+     1>Done Building Project "C:\Users\Dman22\Documents\GitHub\helloWorldC\Hello test\Hello test\Hello test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.13
